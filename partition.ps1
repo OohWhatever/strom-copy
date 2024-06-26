@@ -1,4 +1,4 @@
-$sourceFolder = "E:\SVADBA"
+$sourceFolder = "E:\BACKUP_SCRIPT\in"
 $destinationFolder = "E:\BACKUP_SCRIPT\out"
 
 # Set the maximum chunk size (e.g. 100MB)
